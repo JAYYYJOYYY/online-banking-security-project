@@ -54,4 +54,3 @@ The full report includes:
 - Implementation screenshots
 - Security analysis & mitigation
 
-👉 Full PDF is included in this repository.
