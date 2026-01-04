@@ -5,7 +5,7 @@ It analyzes security threats in online banking web applications
 and proposes a secure protocol with authentication, encryption,
 session protection, logging, and intrusion monitoring.
 
-## 📌 Project Description
+## Project Description
 
 The report studies:
 - Architecture of online banking web systems
@@ -15,7 +15,7 @@ The report studies:
 
 A secure multi-layer protocol is proposed and implemented at a demo level.
 
-## 🛡️ Security Mechanisms Used in the Design
+## Security Mechanisms Used in the Design
 
 - Two-Factor Authentication (password + OTP)
 - RSA public / private key pairs
@@ -26,14 +26,14 @@ A secure multi-layer protocol is proposed and implemented at a demo level.
 - Audit logging for activities and transactions
 - Intrusion Detection alerts for abnormal behavior
 
-## 🔗 Protocol Phases
+## Protocol Phases
 
 1) System Initialization  
 2) Authentication Phase  
 3) Secure Session Establishment  
 4) Transaction & Monitoring Phase
 
-## 🧪 Implementation & Testing (Demo)
+## Implementation & Testing (Demo)
 
 The implementation demonstrates:
 
@@ -44,7 +44,7 @@ The implementation demonstrates:
 
 (It is a simplified client/server demonstration of the proposed protocol.)
 
-## 📄 Project Document (PDF)
+## Project Document (PDF)
 
 The full report includes:
 - Related work summaries
